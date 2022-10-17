@@ -1,2 +1,3 @@
 # Roleta-de-tarefas
-Uma roleta com tarefas para fazer feitas para testar javascript e css
+
+![roleta](https://user-images.githubusercontent.com/89424507/196204350-ff7069fd-4230-4a5c-a03a-a8d63718d554.jpg)
